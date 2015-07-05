@@ -1,0 +1,7 @@
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector/Driver.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector/Driver/MSSQL.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector/Driver/Oracle.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector/Driver/Pg.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector/Driver/SQLite.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/DBIx/Connector/Driver/mysql.pm

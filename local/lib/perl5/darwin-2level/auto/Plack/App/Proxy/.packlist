@@ -1,0 +1,9 @@
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/App/Proxy.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/App/Proxy/Backend.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/App/Proxy/Backend/AnyEvent/HTTP.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/App/Proxy/Backend/LWP.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/App/Proxy/Test.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Middleware/Proxy/AddVia.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Middleware/Proxy/Connect.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Middleware/Proxy/LoadBalancer.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Middleware/Proxy/RewriteLocation.pm

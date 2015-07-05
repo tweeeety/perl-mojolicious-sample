@@ -1,0 +1,1 @@
+{"provides":{"FCGI::ProcManager::Constrained":{"file":"lib/FCGI/ProcManager/Constrained.pm"},"FCGI::ProcManager":{"version":"0.25","file":"lib/FCGI/ProcManager.pm"}},"target":"FCGI::ProcManager","version":"0.25","name":"FCGI::ProcManager","dist":"FCGI-ProcManager-0.25","pathname":"A/AR/ARODLAND/FCGI-ProcManager-0.25.tar.gz"}

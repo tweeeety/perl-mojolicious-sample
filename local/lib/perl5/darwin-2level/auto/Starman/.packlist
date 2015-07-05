@@ -1,0 +1,5 @@
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/bin/starman
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/HTTP/Server/PSGI/Net/Server/PreFork.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Handler/Starman.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Starman.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Starman/Server.pm

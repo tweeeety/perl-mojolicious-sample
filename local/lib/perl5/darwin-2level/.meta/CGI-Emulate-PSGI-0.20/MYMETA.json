@@ -1,0 +1,79 @@
+{
+   "abstract" : "PSGI adapter for CGI",
+   "author" : [
+      "Tokuhiro Matsuno <tokuhirom@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Milla version v1.0.5, Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142060, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "CGI-Emulate-PSGI",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "inc",
+         "share",
+         "eg",
+         "examples"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "develop" : {
+         "requires" : {
+            "Test::Pod" : "1.41"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "CGI" : "3.63",
+            "HTTP::Response" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::More" : "0.88",
+            "Test::Requires" : "0.08"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tokuhirom/p5-cgi-emulate-psgi/issues"
+      },
+      "homepage" : "https://github.com/tokuhirom/p5-cgi-emulate-psgi",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/tokuhirom/p5-cgi-emulate-psgi.git",
+         "web" : "https://github.com/tokuhirom/p5-cgi-emulate-psgi"
+      }
+   },
+   "version" : "0.20",
+   "x_contributors" : [
+      "Bastian Blank <waldi@debian.org>",
+      "Clay Fouts <cfouts@liblime.com>",
+      "Graham Knop <haarg@haarg.org>",
+      "James Wright <james2vegas@aim.com>",
+      "Kazuho Oku <kazuhooku@gmail.com>",
+      "Mark Stosberg <mark@stosberg.com>",
+      "Tatsuhiko Miyagawa <miyagawa@gmail.com>",
+      "Tokuhiro Matsuno <tokuhirom@gmail.com>"
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

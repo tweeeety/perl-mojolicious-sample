@@ -1,0 +1,5 @@
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/bin/corona
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Corona.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Corona/Server.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Handler/Corona.pm
+/Users/ryuichi.murata/github/for_hatena/mojo_sample/local/lib/perl5/Plack/Server/Coro.pm

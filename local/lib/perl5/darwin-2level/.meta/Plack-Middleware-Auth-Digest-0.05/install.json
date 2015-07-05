@@ -1,0 +1,1 @@
+{"provides":{"Plack::Middleware::Auth::Digest":{"version":"0.05","file":"lib/Plack/Middleware/Auth/Digest.pm"}},"target":"Plack::Middleware::Auth::Digest","version":"0.05","name":"Plack::Middleware::Auth::Digest","dist":"Plack-Middleware-Auth-Digest-0.05","pathname":"M/MI/MIYAGAWA/Plack-Middleware-Auth-Digest-0.05.tar.gz"}

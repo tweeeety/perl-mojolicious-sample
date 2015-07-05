@@ -1,0 +1,51 @@
+{
+   "abstract" : "A co-operative multithreaded server using Coro",
+   "author" : [
+      "Alex Vandiver <alexmv@bestpractical.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "mit"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Net-Server-Coro",
+   "no_index" : {
+      "directory" : [
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "Net::SSLeay" : "0"
+         },
+         "requires" : {
+            "AnyEvent" : "0",
+            "Coro" : "0",
+            "Net::Server" : "2"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://opensource.org/licenses/mit-license.php"
+      ]
+   },
+   "version" : "1.3",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}
