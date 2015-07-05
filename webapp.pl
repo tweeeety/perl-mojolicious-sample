@@ -38,7 +38,6 @@ get 'book' => sub {
     my $title = $row->{title};
 
     my $text = "id: $id, title: $title";
-    warn "$text";
 
     use Encode 'decode';
     $text = decode('UTF-8', $text);
@@ -48,11 +47,8 @@ get 'book' => sub {
     push @texts, $text;
   }
 
-  # $self->stash('texts' => \@texts);
-
   # response
   $self->render(text => $texts);
-  # $self->render('sqlite');
 };
 
 app->start;
